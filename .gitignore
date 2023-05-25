@@ -1,6 +1,9 @@
 # temporary files, log files
 *.log
 
+#images
+*.png
+
 # big outputs
 *.nc
 *.mat
