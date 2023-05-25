@@ -1,4 +1,9 @@
 import numpy as np
+try: 
+    from pyroms import hgrid
+except:
+    print('')
+
 from pyroms.vgrid import s_coordinate
 from pyroms.vgrid import s_coordinate_2
 from pyroms.vgrid import s_coordinate_4
