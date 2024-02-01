@@ -1,12 +1,20 @@
 # temporary files, log files
 *.log
 
+# python junk
+*.pyc
+.ipynb_checkpoints
+
+#vs-code junk
+*.code-workspace
+
 #images
 *.png
 
 # big outputs
 *.nc
 *.mat
+data/raw/
 
 # Stupid Mac files
 .DS_Store
