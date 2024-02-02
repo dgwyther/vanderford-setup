@@ -15,6 +15,7 @@
 *.nc
 *.mat
 data/raw/
+*.nc.backup
 
 # Stupid Mac files
 .DS_Store
