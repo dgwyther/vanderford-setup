@@ -1,4 +1,5 @@
 # PROJECT NAME
+## Vanderford Ice Shelf-Ocean Model setup
 # DATE
 # PROJECT GOAL
 # PROJECT FOLDER STRUCTURE
