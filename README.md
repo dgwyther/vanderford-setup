@@ -1,5 +1,6 @@
 # PROJECT NAME
 ## Vanderford Ice Shelf-Ocean Model setup
+### Exploring ice shelf--ocean interactions at the Vanderford Glacier Ice Shelf and Vincennes Bay
 # DATE
 # PROJECT GOAL
 # PROJECT FOLDER STRUCTURE
